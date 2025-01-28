@@ -7,7 +7,7 @@ from more_itertools import chunked
 from scipy import stats
 
 # If the data are not in the same working directory, change the path using the line below.
-#os.chdir(r'C:\Users\Hiroshi\Documents\Python_Scripts')
+#os.chdir(r'C:\Users\Alex\Documents\Python_Scripts')
 
 # filename1 must be the text file for green fluorescence. filename2 must be the text file for red fluorescence.
 filename1 = 'cf1green.txt'
